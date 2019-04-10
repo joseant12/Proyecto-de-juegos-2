@@ -1,28 +1,18 @@
 {
-    "id": "914323df-63d4-4d2d-968f-53d111a8ee3d",
+    "id": "5a43c903-8e83-4976-ad03-8b4a863ba379",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oRoomTransition",
+    "name": "oRoom1Ctrl",
     "eventList": [
         {
-            "id": "b1b006d8-f1b1-4c73-9353-01dcc9d63a2c",
+            "id": "0b4cc6f8-3120-431d-8f74-7b5a343f7748",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "914323df-63d4-4d2d-968f-53d111a8ee3d"
-        },
-        {
-            "id": "6f6f190d-61e2-4aa5-bcac-4e261f59b4bc",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "9fee4edf-5e04-42aa-aa95-81f21a53bf13",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "914323df-63d4-4d2d-968f-53d111a8ee3d"
+            "m_owner": "5a43c903-8e83-4976-ad03-8b4a863ba379"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "2882f01d-a8f8-4aac-bad6-6a3d5316ad7c",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

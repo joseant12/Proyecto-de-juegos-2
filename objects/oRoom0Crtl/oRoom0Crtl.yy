@@ -2,7 +2,7 @@
     "id": "ee63c83d-2994-4a74-bbdb-0622fe32f277",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "controller",
+    "name": "oRoom0Crtl",
     "eventList": [
         {
             "id": "5cd6390c-ec90-43dc-860e-15f721a33237",
