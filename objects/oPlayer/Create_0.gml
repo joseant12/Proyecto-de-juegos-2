@@ -9,3 +9,9 @@ jumps = 0;
 jumpsmax = 2;
 jumpdistance = 7;
 onFloor = 0;
+if (variable_global_exists("numSpawnY")){
+	x = global.numSpawnX;
+	y = global.numSpawnY;	
+} else {
+	show_debug_message("mensaje");
+}

@@ -117,6 +117,10 @@ if (place_meeting(x-1,y,oJgWall) && key_left)
 	jumps = jumpsmax;
 }
 
+if(y>768){
+	room_restart();
+}
+
 
 y = y + vsp + fall
 x = x + hsp + ice_friction

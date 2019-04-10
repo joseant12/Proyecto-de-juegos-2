@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "28d19964-3cf9-46fa-a004-d278eab726e9",
+            "Value": {
+                "id": "275a54f3-bd66-4206-b21c-c2d4380b906c",
+                "resourcePath": "objects\\checkpoint\\checkpoint.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "31b4b318-042b-4acc-8aea-e38edf9cbe00",
             "Value": {
                 "id": "9e42e2c7-665a-498a-a60e-b1460ac24ad5",
@@ -140,6 +148,14 @@
                 "id": "d74e88b4-4191-4a04-89a2-798cf7538f35",
                 "resourcePath": "views\\76e0c186-5418-4faa-9443-a524e5902e67.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7a9f8c5d-b06e-4d90-896d-f352ad69406b",
+            "Value": {
+                "id": "56bf40ff-ee08-4b4c-a417-d8ef3376d64d",
+                "resourcePath": "sprites\\sprite7\\sprite7.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -340,6 +356,14 @@
                 "id": "be2dfe90-1423-45ad-b73c-8665c12e1ee8",
                 "resourcePath": "sprites\\Jumping\\Jumping.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ee63c83d-2994-4a74-bbdb-0622fe32f277",
+            "Value": {
+                "id": "ca180bb8-a811-40b4-8fe5-204acceb8eca",
+                "resourcePath": "objects\\controller\\controller.yy",
+                "resourceType": "GMObject"
             }
         },
         {
