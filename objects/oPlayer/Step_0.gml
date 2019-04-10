@@ -118,6 +118,9 @@ if (place_meeting(x-1,y,oJgWall) && key_left)
 }
 
 if(y>768){
+	//Respawn
+	//with (all) { x=xstart; y=ystart;}
+	instance_destroy();
 	room_restart();
 }
 

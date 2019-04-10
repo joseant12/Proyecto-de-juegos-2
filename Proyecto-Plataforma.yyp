@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "678b5e70-5204-4e17-bb1a-531c114b4ef3",
+            "Value": {
+                "id": "14a09243-3838-4746-98d8-fca240afb533",
+                "resourcePath": "objects\\oCamera\\oCamera.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "69f9d450-d266-4178-887b-fd68edd31975",
             "Value": {
                 "id": "b80511b4-78a5-4126-b571-c6cf5f4f863e",
@@ -180,6 +188,14 @@
                 "id": "4be81b1c-2b28-46c9-a571-8ac74b1ec64d",
                 "resourcePath": "views\\84c3aae5-6b9d-42d2-a269-0f8ce51b8915.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "914323df-63d4-4d2d-968f-53d111a8ee3d",
+            "Value": {
+                "id": "eeab4033-3608-410b-98e4-c7611369792d",
+                "resourcePath": "objects\\oRoomTransition\\oRoomTransition.yy",
+                "resourceType": "GMObject"
             }
         },
         {

@@ -1,19 +1,10 @@
 {
-    "id": "28d19964-3cf9-46fa-a004-d278eab726e9",
+    "id": "914323df-63d4-4d2d-968f-53d111a8ee3d",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "checkpoint",
+    "name": "oRoomTransition",
     "eventList": [
-        {
-            "id": "b1120586-2cc8-43c8-9d06-89cd0d5ea1e3",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "9fee4edf-5e04-42aa-aa95-81f21a53bf13",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "28d19964-3cf9-46fa-a004-d278eab726e9"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "2678ca66-9c26-4ed1-946f-0fd2cc76b0c4",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }
