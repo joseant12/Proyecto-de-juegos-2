@@ -70,7 +70,15 @@ if (place_meeting(x,y+vsp,oWall))
 		y = y + sign(vsp);
 	}
 	vsp = 0;
-} else if(place_meeting(x,y+vsp,oFallWall)) {
+} else if (place_meeting(x,y+vsp,oJgWall))
+{
+	while(!place_meeting(x,y+sign(vsp),oJgWall))
+	{
+		y = y + sign(vsp);
+	}
+	vsp = 0;
+} 
+else if(place_meeting(x,y+vsp,oFallWall)) {
 	while(!place_meeting(x,y+sign(vsp),oFallWall))
 	{
 		y = y + sign(vsp);
@@ -90,9 +98,9 @@ if (place_meeting(x,y+vsp,oIceWall))
 	
 	if (key_left)
 	{
-		ice_friction = -3;
+		ice_friction = -global.ice_friction_speed;
 	} else if (key_right) {
-		ice_friction = 3	
+		ice_friction = global.ice_friction_speed	
 	}
 	
 	if (ice_friction != 0)
@@ -109,12 +117,19 @@ if (place_meeting(x,y+vsp,oIceWall))
 //Agarre de plantas
 if (place_meeting(x-1,y,oJgWall) && key_left)
 {
-	vsp = 0.15;
+	vsp = global.jg_wall;
 	jumps = jumpsmax;
 } else if (place_meeting(x+1,y,oJgWall) && key_right)
 {
-	vsp = 0.15;
+	vsp = global.jg_wall;
 	jumps = jumpsmax;
+}
+
+if(y>768){
+	//Respawn
+	//with (all) { x=xstart; y=ystart;}
+	instance_destroy();
+	room_restart();
 }
 
 

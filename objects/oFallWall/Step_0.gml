@@ -2,7 +2,7 @@
 // Puede escribir su código en este editor
 if (falling){
 	y += 10
-	if (y > 760){
+	if (y > global.Max_Y_resolution){
 		instance_destroy();
 	}
 }
