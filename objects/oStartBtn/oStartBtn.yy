@@ -1,18 +1,18 @@
 {
-    "id": "28d19964-3cf9-46fa-a004-d278eab726e9",
+    "id": "18d93f59-7f78-474d-901e-7d24f7b3dde4",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "checkpoint",
+    "name": "oStartBtn",
     "eventList": [
         {
-            "id": "b1120586-2cc8-43c8-9d06-89cd0d5ea1e3",
+            "id": "f528c96a-e8ce-4b18-ba82-023d9d07849e",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
-            "collisionObjectId": "9fee4edf-5e04-42aa-aa95-81f21a53bf13",
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "28d19964-3cf9-46fa-a004-d278eab726e9"
+            "eventtype": 13,
+            "m_owner": "18d93f59-7f78-474d-901e-7d24f7b3dde4"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "7a9f8c5d-b06e-4d90-896d-f352ad69406b",
+    "spriteId": "9f5a96ac-6068-4478-ab04-45d7d9d56046",
     "visible": true
 }

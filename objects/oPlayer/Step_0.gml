@@ -70,7 +70,15 @@ if (place_meeting(x,y+vsp,oWall))
 		y = y + sign(vsp);
 	}
 	vsp = 0;
-} else if(place_meeting(x,y+vsp,oFallWall)) {
+} else if (place_meeting(x,y+vsp,oJgWall))
+{
+	while(!place_meeting(x,y+sign(vsp),oJgWall))
+	{
+		y = y + sign(vsp);
+	}
+	vsp = 0;
+} 
+else if(place_meeting(x,y+vsp,oFallWall)) {
 	while(!place_meeting(x,y+sign(vsp),oFallWall))
 	{
 		y = y + sign(vsp);
@@ -90,9 +98,9 @@ if (place_meeting(x,y+vsp,oIceWall))
 	
 	if (key_left)
 	{
-		ice_friction = -3;
+		ice_friction = -global.ice_friction_speed;
 	} else if (key_right) {
-		ice_friction = 3	
+		ice_friction = global.ice_friction_speed	
 	}
 	
 	if (ice_friction != 0)

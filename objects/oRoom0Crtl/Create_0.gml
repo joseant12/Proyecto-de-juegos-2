@@ -1,4 +1,4 @@
-if (! variable_global_exists("checkpoint") || !global.checkpoint ){
+if ( !global.checkpoint ){
 	global.numSpawnX = 100;
 	global.numSpawnY = 655;
 } 
