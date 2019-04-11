@@ -5,5 +5,6 @@ if (keyboard_check(vk_up) && !global.checkpoint){
 	global.numSpawnX = x;
 	global.numSpawnY = y;
 	global.ice_friction_speed += 3
+	global.jg_wall += 1;
 	show_debug_message("checkpoint 1");
 }

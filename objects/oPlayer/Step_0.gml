@@ -117,11 +117,11 @@ if (place_meeting(x,y+vsp,oIceWall))
 //Agarre de plantas
 if (place_meeting(x-1,y,oJgWall) && key_left)
 {
-	vsp = 0.15;
+	vsp = global.jg_wall;
 	jumps = jumpsmax;
 } else if (place_meeting(x+1,y,oJgWall) && key_right)
 {
-	vsp = 0.15;
+	vsp = global.jg_wall;
 	jumps = jumpsmax;
 }
 
