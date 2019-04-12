@@ -84,7 +84,10 @@ else if(place_meeting(x,y+vsp,oFallWall)) {
 		y = y + sign(vsp);
 	}
 	jumps = 1;
-	fall = 0.5;
+	fall = 0;
+	if (global.falling){
+		fall = 0.5;
+	}
 	vsp = 0;
 }
 
