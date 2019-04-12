@@ -6,5 +6,6 @@ if (keyboard_check(vk_up) && !global.checkpoint){
 	global.numSpawnY = y;
 	global.ice_friction_speed += 3
 	global.jg_wall += 1;
-	show_debug_message("checkpoint 1");
+	global.clouds_filter += 0.2;
+	global.active_falling_trap = true;
 }
