@@ -1,3 +1,5 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
-falling = 1;
+if (global.falling){
+	falling = 1;
+}

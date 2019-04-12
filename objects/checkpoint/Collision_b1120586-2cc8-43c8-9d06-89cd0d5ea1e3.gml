@@ -8,4 +8,5 @@ if (keyboard_check(vk_up) && !global.checkpoint){
 	global.jg_wall += 1;
 	global.clouds_filter += 0.2;
 	global.active_falling_trap = true;
+	global.falling = true;
 }

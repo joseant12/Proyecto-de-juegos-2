@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "33a1eff9-bfc2-4980-88d2-05a553db0be1",
+            "Value": {
+                "id": "94f15cf3-990a-4f56-89c2-f47f11908689",
+                "resourcePath": "sprites\\Up_checkpoint\\Up_checkpoint.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "33ea7084-3c78-4260-98d4-ddbdc2f45c6c",
             "Value": {
                 "id": "5091152a-d585-4884-b6a4-fd69db1d4e66",
@@ -172,6 +180,22 @@
                 "id": "6411e167-8ead-4e9c-a350-bfc49b885d67",
                 "resourcePath": "views\\48ebc053-81e0-4f64-a8bd-bcd93d5efba3.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "51b3730b-5c74-4c00-befb-f3433ae15760",
+            "Value": {
+                "id": "4e9e1aa1-acf8-46e3-9d49-129d577e3cb8",
+                "resourcePath": "sprites\\bgtutorial1\\bgtutorial1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "51d1979a-e28b-4d3d-8c3e-7a1cc6307cc0",
+            "Value": {
+                "id": "2a2313f9-96f0-488f-bc1d-e7e1bf65fb61",
+                "resourcePath": "objects\\oUpCheckpoint\\oUpCheckpoint.yy",
+                "resourceType": "GMObject"
             }
         },
         {
