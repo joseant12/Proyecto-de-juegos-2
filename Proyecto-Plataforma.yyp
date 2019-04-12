@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "44f5aaaa-b2d6-4cfd-ac73-9e3cfa4e993c",
+            "Value": {
+                "id": "b6002aba-be16-42a9-8f8b-7221246a8c2a",
+                "resourcePath": "objects\\oSmog\\oSmog.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "48ebc053-81e0-4f64-a8bd-bcd93d5efba3",
             "Value": {
                 "id": "6411e167-8ead-4e9c-a350-bfc49b885d67",
@@ -380,6 +388,14 @@
                 "id": "dc743422-3b33-401d-a471-12aef9a51fb7",
                 "resourcePath": "objects\\oRoom3Crtl\\oRoom3Crtl.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c51d37a6-13f4-4529-b84d-c13f20f4a3f0",
+            "Value": {
+                "id": "d44b59bf-c7f2-4151-a519-b61ef040478e",
+                "resourcePath": "sprites\\Smog\\Smog.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
