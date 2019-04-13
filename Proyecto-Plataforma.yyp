@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "3ec351df-b495-4466-b486-1d060759f85d",
+            "Value": {
+                "id": "d05872d5-0722-450e-8c93-8e5076116edb",
+                "resourcePath": "sprites\\sprite20\\sprite20.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "440b7c97-5c7e-4cfe-931c-adfafc9eaae1",
             "Value": {
                 "id": "305e24d4-15dc-4298-961c-f406bad9b9d6",
@@ -179,6 +187,14 @@
             "Value": {
                 "id": "b6002aba-be16-42a9-8f8b-7221246a8c2a",
                 "resourcePath": "objects\\oSmog\\oSmog.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "452e0ce5-6e22-46fd-baf9-380e281a9544",
+            "Value": {
+                "id": "c04ceccf-b5ad-4e9a-83a9-3a54374241b7",
+                "resourcePath": "objects\\letrero\\letrero.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -311,6 +327,14 @@
             }
         },
         {
+            "Key": "88e8d8c4-475c-4f0e-bc0a-385e6a0708ed",
+            "Value": {
+                "id": "28c80cc1-fff3-4dde-bd8b-e5d5b95b36b0",
+                "resourcePath": "objects\\mensaje\\mensaje.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "914323df-63d4-4d2d-968f-53d111a8ee3d",
             "Value": {
                 "id": "eeab4033-3608-410b-98e4-c7611369792d",
@@ -388,6 +412,22 @@
                 "id": "453ff19f-3bfd-4e32-b759-cf7933f59d47",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "adc2f341-2f13-408d-879e-2ef6da90f909",
+            "Value": {
+                "id": "04d1478f-884c-40b9-bd99-59bf9f35594c",
+                "resourcePath": "sprites\\sprite21\\sprite21.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b0f906fc-005e-4a12-9c7b-8d3e3f3a0180",
+            "Value": {
+                "id": "84f1a2e8-3dea-4402-914c-663421dd72e3",
+                "resourcePath": "objects\\oGameEnd\\oGameEnd.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -547,6 +587,14 @@
             "Value": {
                 "id": "be2dfe90-1423-45ad-b73c-8665c12e1ee8",
                 "resourcePath": "sprites\\Jumping\\Jumping.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e6d48429-0bc6-4ac4-9c10-5a970b46c4bd",
+            "Value": {
+                "id": "d0b8f935-a115-49b8-a4e0-8779dbf576f7",
+                "resourcePath": "sprites\\picos2\\picos2.yy",
                 "resourceType": "GMSprite"
             }
         },

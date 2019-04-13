@@ -1,28 +1,28 @@
 {
-    "id": "348780f7-d96b-4db2-9b11-4e8dbc248f38",
+    "id": "b0f906fc-005e-4a12-9c7b-8d3e3f3a0180",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oFalingTrap",
+    "name": "oGameEnd",
     "eventList": [
         {
-            "id": "95d6b88b-a58a-4dd2-bb37-7d17b71fd057",
+            "id": "3c5a808f-3135-4f10-b7f1-83230152d6f0",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "collisionObjectId": "9fee4edf-5e04-42aa-aa95-81f21a53bf13",
             "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "348780f7-d96b-4db2-9b11-4e8dbc248f38"
+            "eventtype": 4,
+            "m_owner": "b0f906fc-005e-4a12-9c7b-8d3e3f3a0180"
         },
         {
-            "id": "4a029c3d-33d8-4ef6-bc25-78665da106a7",
+            "id": "ad38e71e-b331-4c2a-86a1-10399d4941fd",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "348780f7-d96b-4db2-9b11-4e8dbc248f38"
+            "eventtype": 2,
+            "m_owner": "b0f906fc-005e-4a12-9c7b-8d3e3f3a0180"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,6 +43,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "e6d48429-0bc6-4ac4-9c10-5a970b46c4bd",
+    "spriteId": "7a9f8c5d-b06e-4d90-896d-f352ad69406b",
     "visible": true
 }
