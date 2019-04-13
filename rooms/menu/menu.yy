@@ -25,7 +25,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_60557B4D","id": "ea38f742-9786-443e-990c-8f99da41f42b","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_inst_60557B4D.gml","creationCodeType": ".gml","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_60557B4D","objId": "18d93f59-7f78-474d-901e-7d24f7b3dde4","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 448,"y": 288}
+{"name": "inst_60557B4D","id": "ea38f742-9786-443e-990c-8f99da41f42b","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_inst_60557B4D.gml","creationCodeType": ".gml","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_60557B4D","objId": "18d93f59-7f78-474d-901e-7d24f7b3dde4","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 416,"y": 320}
             ],
             "layers": [
 
@@ -62,8 +62,8 @@
             "m_serialiseFrozen": false,
             "modelName": "GMRBackgroundLayer",
             "mvc": "1.0",
-            "spriteId": "00000000-0000-0000-0000-000000000000",
-            "stretch": false,
+            "spriteId": "4da70114-70a4-4004-8c84-3f4e7617d748",
+            "stretch": true,
             "userdefined_animFPS": false,
             "userdefined_depth": false,
             "visible": true,
