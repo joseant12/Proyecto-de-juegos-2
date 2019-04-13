@@ -10,4 +10,5 @@ if (keyboard_check(vk_up) && !global.checkpoint){
 	global.active_falling_trap = true;
 	global.falling = true;
 	global.oFallWall_falling_speed += 3; 
+	sprite_index = sprite7;
 }

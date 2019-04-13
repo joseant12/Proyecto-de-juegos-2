@@ -75,7 +75,9 @@ if (place_meeting(x,y+vsp,oWall))
 	{
 		y = y + sign(vsp);
 	}
-	vsp = 0;
+	if (!place_meeting(x+hsp,y,oWall)){
+		vsp = 0;
+	}
 } else if (place_meeting(x,y+vsp,oJgWall))
 {
 	while(!place_meeting(x,y+sign(vsp),oJgWall))

@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "37e3fd59-7e85-4fee-8e3a-1a91bd96b2c8",
+            "Value": {
+                "id": "9cbae45f-c3f3-498c-bbe9-27442cbc3a2c",
+                "resourcePath": "sprites\\checkpointInactivo\\checkpointInactivo.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3963201e-7587-4813-bc04-e2dee45e0f4c",
             "Value": {
                 "id": "d8bbce57-1ed2-4d5c-adfc-06ec92767ebf",
