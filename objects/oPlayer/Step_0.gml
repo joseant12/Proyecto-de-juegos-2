@@ -11,7 +11,7 @@ fall = 0;
 vsp = vsp + grv;
 
 //Cambios de sprites
-if (place_meeting(x,y+1,oWall) || place_meeting(x,y+1,oIceWall))
+if (place_meeting(x,y+1,oWall) || place_meeting(x,y+1,oIceWall) )
 {
 	jumps = jumpsmax;
 	image_speed = 1;
@@ -56,6 +56,12 @@ if (place_meeting(x+hsp,y,oWall))
 } else if (place_meeting(x+hsp,y,oIceWall))
 {
 	while(!place_meeting(x+sign(hsp),y,oIceWall))
+	{
+		x = x + sign(hsp);
+	}
+	hsp = 0;
+} else if (place_meeting(x+hsp,y,oFallWall)){
+	while(!place_meeting(x+sign(hsp),y,oFallWall))
 	{
 		x = x + sign(hsp);
 	}

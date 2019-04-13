@@ -535,6 +535,14 @@
             }
         },
         {
+            "Key": "eda0e033-cd4d-43e9-9fec-b264b3d1892a",
+            "Value": {
+                "id": "a5e8d66f-6cb5-4b8d-a190-184a5544986b",
+                "resourcePath": "sounds\\backgroundMusic\\backgroundMusic.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "ee63c83d-2994-4a74-bbdb-0622fe32f277",
             "Value": {
                 "id": "ca180bb8-a811-40b4-8fe5-204acceb8eca",
