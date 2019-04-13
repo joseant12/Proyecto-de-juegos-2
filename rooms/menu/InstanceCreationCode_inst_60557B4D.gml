@@ -1,4 +1,4 @@
-global.ice_friction_speed = 2;
+global.ice_friction_speed = 1.5;
 global.checkpoint = false;
 global.jg_wall = 0.15;
 global.Max_Y_resolution = 768
